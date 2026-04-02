@@ -17,8 +17,9 @@ O projeto gerou insights estratégicos para o entendimento tanto das vendas como
 
 # Modelagem dos dados
 
-<img width="3840" height="2160" alt="Microsoft-Power-BI-Symbol" src="https://github.com/user-attachments/assets/380a0e24-b5a3-459a-81ca-6f842132d62f" />
+<img width="1920" height="1080" alt="Texto do seu parágrafo (1)" src="https://github.com/user-attachments/assets/6e41d1bf-cb16-4eb4-92d0-0a4ba5825418" />
 
 # Visualização 
 
+<img width="1444" height="809" alt="Dashboard" src="https://github.com/user-attachments/assets/6ae47523-63fb-44f8-9767-74b821699d2b" />
 
