@@ -87,7 +87,6 @@ O projeto gerou insights estratégicos para o entendimento tanto das vendas como
 6. Análise de vendas por cliente:
    
  O cliente com maior volume de compras foi Mathias, e observa-se que a maioria dos clientes realizou mais de uma compra, indicando um bom nível de recorrência. Estratégias sugeridas:
- 
     a) Segmentar os clientes em:
     Recorrentes → foco em retenção
     Pontuais → foco em aumento de frequência
