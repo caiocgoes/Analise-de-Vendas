@@ -34,50 +34,73 @@ O projeto gerou insights estratégicos para o entendimento tanto das vendas como
 
 1. Categoria com maior faturamento:
 
-   1.1 A categoria Eletrônicos e a que possui dominância nas vendas (67%), Uma boa estratégia seria maximizar a categoria por meio de: 
-       a) Upsell → Oferecer para os clientes que já estão a comprar em tal categoria versões melhores dos produtos mais comprados (ex: Mais memoria, talvez uma câmera melhor em casos de celulares principalmente, o que possuam maior garantia)
-       b) Cross - Sell : Vender itens relacionados aos produtos a qual o cliente já esta comprando. No caso de notebooks o produto campeão, oferecer promoções por exemplo de mouse pad gamers, headsets ou carregadores. 
-       c) O objetivo principal para essa categoria nesse momento seria manter a liderança e aumentar o ticket médio
+   1.1 A categoria de Eletrônicos é a que apresenta maior dominância nas vendas (67%). Uma boa estratégia seria maximizar seu desempenho por meio de:
+
+     a) Upsell → Oferecer aos clientes que já estão comprando nessa categoria versões superiores dos produtos mais vendidos (ex: mais memória, melhor câmera — especialmente no caso de celulares — ou maior tempo de garantia).
+
+     b) Cross-sell → Vender itens complementares aos produtos que o cliente já está adquirindo. No caso de notebooks (produto campeão), oferecer promoções de itens como mouse, mousepad gamer, headsets ou carregadores.
+
+     c) O principal objetivo para essa categoria é manter a liderança e aumentar o ticket médio.
    
-   1.2 A categoria moveis e a que possui segunda maior dominância nas vendas (27%). Uma boa estratégia seria alavancar o crescimento da categoria, chegar por exemplo a 35 % - 40 %, por meio de:
-       a) Oferecer por exemplo frete grátis, tendo em vista que a logistica é um dos maiores desafios dessa categoria; 
-       b) Outro fator é o preço de produtos nessa categoria, uma boa estrategia seria oferecer um bom parcelamento para os clientes, ou combos com ofertas (cadeira + mesa)
+   1.2 A categoria de Móveis é a segunda com maior participação nas vendas (27%). Uma estratégia adequada seria alavancar seu crescimento, buscando atingir algo entre 35% e 40%, por meio de:
+
+     a) Oferecer frete grátis, considerando que a logística é um dos principais desafios dessa categoria;
+
+     b) Trabalhar o fator preço, oferecendo melhores condições de pagamento, como parcelamento facilitado ou criação de combos (ex: cadeira + mesa).
    
-   1.3 No caso de acessórios, possui um faturamento baixo, mas normalmente tem um baixo custo logistico e compras inpulsivas, ou seja, performa com outros produtos juntos. Um boa estrategia seria:
-       a) Colocar ofertas para que sempre o cliente leve um acessório com algum outro produto;
-       b) Criação de combos de produtos de acessórios com outros produtos;
+   1.3 A categoria de Acessórios possui baixo faturamento, porém geralmente apresenta baixo custo logístico e forte apelo de compra impulsiva. Ou seja, performa melhor quando associada a outros produtos. Estratégias recomendadas:
+
+     a) Criar ofertas que incentivem o cliente a sempre adicionar um acessório à compra;
+
+     b) Desenvolver combos de acessórios com outros produtos.
    
-   1.4 No caso dos livros, apesar do faturamento mais baixo assim como acessórios, tem uma grande quantidade de pedidos e foi verificado que os clientes a maioria comprarm mais de uma vez. Com isso podemos sugerir algumas opções:
-       a) Transformar a categoria de livros em uma categoria de porta de entrada;
-       b) Fazer campanhas focadas em livros com o objetivo de trazer mais clientes;
-       c) Notificações de novos titulos;
+   1.4 Apesar do faturamento mais baixo (assim como acessórios), a categoria de Livros apresenta alto volume de pedidos e forte recorrência, já que a maioria dos clientes realizou mais de uma compra. Dessa forma, sugerem-se as seguintes estratégias:
+
+    a) Posicionar a categoria como porta de entrada de clientes;
+
+    b) Criar campanhas focadas em livros com o objetivo de atrair novos clientes;
+
+    c) Implementar notificações sobre novos títulos e recomendações personalizadas.
 
 3. Qual mês de maior faturamento:
 
-   O mês com maior faturamento foi o mês de abril com R$ 1,57 milhão. 
+   O mês com maior faturamento foi abril, com aproximadamente R$ 1,57 milhão. 
 
 4. Qual produto campeão em vendas ?
 
-   O produto campeão de vendas foi o notebook com 8,2 milhão em vendas. Podemos ver que junto com o notebook outros produtos que estão vendendo muito são Mesa, Monitor e Cadeira, ou seja, temos um comportamento que diz que grande parte dos clientes
-   são da área de Tecnologia (confirmando a maior categoria de vendas ser eletronico) e estão comprando itens para montar setup. Algumas estrategias com base nesses dados:
-   a) Criar jornadas de compras (gamer change): Ao invés de vender somente um produto, vender a ideia de criar o seu setup, ou seja, comprar uma cadeira, monitor, mesa e cadeira +  acessorios
-   b) Criar por exemplo kits com promoção tipo: Kit Home office (Notebook + Monitor + Mouse + Teclado) ou Kit programador (Notebook + Livro python + Mochila), o que aumenta o ticket medio de eletronicos, gira produtos de acessórios e ainda vende livros.
-   c) Cross-Sell: Tendo em vista que acessorios e livros estão vendendo muito menos que Eletronicos, buscar criar combos que unam diferentes categorias. Sabendo que a maioria dos clientes provavelmente estão buscando criar seu setup, tentar vender
-   produtos das categorias de livros e acessorios que estão ligados a área tech, como mouse pad, livros de tecnologia como livro de python.
+   O produto com maior faturamento foi o notebook, com aproximadamente R$ 8,2 milhões em vendas. Observa-se também que produtos como mesa, monitor e cadeira apresentam alto desempenho, indicando um padrão de consumo voltado à montagem de setup de trabalho ou estudo, possivelmente ligado ao público de tecnologia. Estratégias sugeridas:
+
+    a) Criar jornadas de compra (game changer): Em vez de vender produtos isolados, vender a ideia de montar um setup completo (ex: notebook + monitor + mesa + cadeira + acessórios).
+
+    b) Criar kits promocionais, como: Kit Home Office (Notebook + Monitor + Mouse + Teclado), Kit Programador (Notebook + Livro de Python + Mochila)
+
+Isso contribui para aumentar o ticket médio, impulsionar a venda de acessórios e integrar a categoria de livros.
+
+    c) Cross-sell entre categorias: Dado que acessórios e livros têm menor participação, criar estratégias que conectem essas categorias aos eletrônicos, especialmente considerando o perfil do cliente (ex: produtos voltados à área de tecnologia, como mousepad e livros técnicos).
 
 5. Analise de vendas por vendedor
 
-   O vendedor com maior faturamento entregue foi a Ana. Mas análisando em geral os resultados, vemos que temos uma boa distribuição de clientes, leads ou metas bem padronizadas. Apesar do faturamento semelhante entre vendedores, há diferenças claras de estratégia: alguns focam em volume enquanto outros maximizam ticket médio. Isso abre oportunidade para otimização através de treinamento direcionado e definição de KPIs mais completos
-    Alguns insights importantes:
-    a) Entender o comportamento do vendedor Carlos, pois apesar de não ser o vendedor com maior faturamento, é o que esta vendendo melhor, tendo em vista o seu maior ticket médio entre os demais vendedores.
-    b) Tendo em vista que a vendedora Daniela foi a que menos vendeu em faturamento, mas a que vendeu mais em peças e pedidos, buscar fazer com que a vendedora venda produtos com maior preço, com o objetivo de aumentar seu ticket médio. Um treinamento de upsell seria ideal.
+  A vendedora com maior faturamento foi Ana. No entanto, de forma geral, observa-se uma boa distribuição de resultados entre os vendedores, indicando equilíbrio na base de clientes ou nas metas. Apesar do faturamento semelhante, existem diferenças claras de estratégia: alguns vendedores focam em volume, enquanto outros priorizam o ticket médio. Isso abre oportunidades para otimização por meio de treinamentos direcionados e definição de KPIs mais completos. Insights:
+
+    a) Analisar o comportamento do vendedor Carlos, que, apesar de não ter o maior faturamento, apresenta o maior ticket médio, indicando maior eficiência na venda de produtos de maior valor.
+
+    b) A vendedora Daniela, embora tenha alto volume de pedidos e peças vendidas, apresenta menor faturamento. Recomenda-se treiná-la para aumentar o ticket médio, por meio de técnicas como upsell.
 
 6. Análise de vendas por cliente:
 
-   O Cliente que mais comprou foi o Mathias, e maioria dos clientes compraram mais de uma vez. Algumas estrategias validas para entender melhor o comportamento do cliente:
-   a) Separar os clientes em recorrentes, com foco em retenção, e pontuais, com foco em aumentar frequencia.
-   b) Aumento de LTV, atraves de emails marketing, recomendações personalizadas, cupons de retorno.
-   c) Criar uma tabela de clusterização de clientes para identificação por exemplo de clientes VIPs, Super Vips e direcionar melhor as campanhas de CRM.   
+ O cliente com maior volume de compras foi Mathias, e observa-se que a maioria dos clientes realizou mais de uma compra, indicando um bom nível de recorrência. Estratégias sugeridas:
 
+    a) Segmentar os clientes em:
+
+    Recorrentes → foco em retenção
+    Pontuais → foco em aumento de frequência
+
+    b) Aumentar o LTV (Lifetime Value) por meio de:
+
+    e-mail marketing
+    recomendações personalizadas
+    cupons de retorno
+
+    c) Criar uma clusterização de clientes (ex: VIP, Super VIP), permitindo direcionar melhor as campanhas de CRM e personalizar ofertas.
 
 
