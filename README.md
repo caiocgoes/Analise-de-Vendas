@@ -8,16 +8,16 @@ Quais categorias e produtos tiveram maior faturamento;
 Análise de vendas por vendedor;
 Análise de vendas por cliente;
 
-
 O projeto gerou insights estratégicos para o entendimento tanto das vendas como também do comportamento do consumidor, servido como base para tomada de melhores decisões comerciais
 
 # Tecnologias Utilizadas
 
-- Python (Pandas, Matplotlib, Seaborn)
-- SQLite
+- Python (pandas, matplotlib, seaborn, sqlite3 and numpy)
 - Power BI
 
 # Modelagem dos dados
+
+<img width="997" height="285" alt="Texto do seu parágrafo" src="https://github.com/user-attachments/assets/1f0ab11e-6890-4f1b-9571-b2baf2c6b1ba" />
 
 # Visualização 
 
