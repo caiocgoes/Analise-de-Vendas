@@ -30,7 +30,7 @@ O projeto gerou insights estratégicos para o entendimento tanto das vendas como
 
 <img width="1444" height="809" alt="Dashboard" src="https://github.com/user-attachments/assets/6ae47523-63fb-44f8-9767-74b821699d2b" />
 
-#Análise geral dos resultados
+# Análise geral dos resultados
 
 1. Categoria com maior faturamento:
 
