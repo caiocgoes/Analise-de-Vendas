@@ -17,7 +17,7 @@ O projeto gerou insights estratégicos para o entendimento tanto das vendas como
 
 # Modelagem dos dados
 
-<img width="684" height="224" alt="modelagem" src="https://github.com/user-attachments/assets/ceec6cd0-45df-4706-b73e-371254506623" />
+<img width="634" height="185" alt="modelagem" src="https://github.com/user-attachments/assets/daad9d68-5e71-46e9-bddf-e9d524613d17" />
 
 # Visualização 
 
