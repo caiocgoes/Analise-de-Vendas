@@ -80,8 +80,7 @@ O projeto gerou insights estratégicos para o entendimento tanto das vendas como
 5. Analise de vendas por vendedor
 
   A vendedora com maior faturamento foi Ana. No entanto, de forma geral, observa-se uma boa distribuição de resultados entre os vendedores, indicando equilíbrio na base de clientes ou nas metas. Apesar do faturamento semelhante, existem diferenças claras de estratégia: alguns vendedores focam em volume, enquanto outros priorizam o ticket médio. Isso abre oportunidades para otimização por meio de treinamentos direcionados e definição de KPIs mais completos. Insights:
-    a) Analisar o comportamento do vendedor Carlos, que, apesar de não ter o maior faturamento, apresenta o maior ticket médio, indicando maior eficiência na venda de produtos de maior valor.
-    
+    a) Analisar o comportamento do vendedor Carlos, que, apesar de não ter o maior faturamento, apresenta o maior ticket médio, indicando maior eficiência na venda de produtos de maior valor. 
     b) A vendedora Daniela, embora tenha alto volume de pedidos e peças vendidas, apresenta menor faturamento. Recomenda-se treiná-la para aumentar o ticket médio, por meio de técnicas como upsell.
     
 6. Análise de vendas por cliente:
