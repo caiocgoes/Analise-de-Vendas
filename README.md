@@ -71,17 +71,23 @@ O projeto gerou insights estratégicos para o entendimento tanto das vendas como
    O produto com maior faturamento foi o notebook, com aproximadamente R$ 8,2 milhões em vendas. Observa-se também que produtos como mesa, monitor e cadeira apresentam alto desempenho, indicando um padrão de consumo voltado à montagem de setup de trabalho ou estudo, possivelmente ligado ao público de tecnologia. Estratégias sugeridas:
    
     a) Criar jornadas de compra (game changer): Em vez de vender produtos isolados, vender a ideia de montar um setup completo (ex: notebook + monitor + mesa + cadeira + acessórios).
+   
     b) Criar kits promocionais, como: Kit Home Office (Notebook + Monitor + Mouse + Teclado), Kit Programador (Notebook + Livro de Python + Mochila)
     Isso contribui para aumentar o ticket médio, impulsionar a venda de acessórios e integrar a categoria de livros.
+   
     c) Cross-sell entre categorias: Dado que acessórios e livros têm menor participação, criar estratégias que conectem essas categorias aos eletrônicos, especialmente considerando o perfil do cliente (ex: produtos voltados à área de tecnologia, como mousepad e livros técnicos).
 
 5. Analise de vendas por vendedor
 
   A vendedora com maior faturamento foi Ana. No entanto, de forma geral, observa-se uma boa distribuição de resultados entre os vendedores, indicando equilíbrio na base de clientes ou nas metas. Apesar do faturamento semelhante, existem diferenças claras de estratégia: alguns vendedores focam em volume, enquanto outros priorizam o ticket médio. Isso abre oportunidades para otimização por meio de treinamentos direcionados e definição de KPIs mais completos. Insights:
     a) Analisar o comportamento do vendedor Carlos, que, apesar de não ter o maior faturamento, apresenta o maior ticket médio, indicando maior eficiência na venda de produtos de maior valor.
+    
     b) A vendedora Daniela, embora tenha alto volume de pedidos e peças vendidas, apresenta menor faturamento. Recomenda-se treiná-la para aumentar o ticket médio, por meio de técnicas como upsell.
+    
 6. Análise de vendas por cliente:
+   
  O cliente com maior volume de compras foi Mathias, e observa-se que a maioria dos clientes realizou mais de uma compra, indicando um bom nível de recorrência. Estratégias sugeridas:
+ 
     a) Segmentar os clientes em:
     Recorrentes → foco em retenção
     Pontuais → foco em aumento de frequência
