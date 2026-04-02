@@ -34,8 +34,7 @@ O projeto gerou insights estratégicos para o entendimento tanto das vendas como
 
 1. Categoria com maior faturamento:
 
-   1.1 A categoria Eletrônicos e a que possui dominância nas vendas (67%), Uma boa estratégia seria maximizar a categoria por meio de:
-   
+   1.1 A categoria Eletrônicos e a que possui dominância nas vendas (67%), Uma boa estratégia seria maximizar a categoria por meio de: 
        a) Upsell → Oferecer para os clientes que já estão a comprar em tal categoria versões melhores dos produtos mais comprados (ex: Mais memoria, talvez uma câmera melhor em casos de celulares principalmente, o que possuam maior garantia)
        b) Cross - Sell : Vender itens relacionados aos produtos a qual o cliente já esta comprando. No caso de notebooks o produto campeão, oferecer promoções por exemplo de mouse pad gamers, headsets ou carregadores. 
        c) O objetivo principal para essa categoria nesse momento seria manter a liderança e aumentar o ticket médio
